@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: lightpink;
+  }
+   
+   
+  h1 {
+    color: rgb(211, 117, 175);
+    background-color: black;
+    text-align: center;
+    font-family: Apple Chancery, cursive;
+  }
+   
+  p, 
+  li {
+    font-size: 18px;
+  }
+   
+  a {
+    text-decoration: none;
+  }
+
+  #list {
+    font-weight: bold;
+  }
